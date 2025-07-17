@@ -6,7 +6,7 @@ A web based application to track and keep record of all expenses and income of u
 
 
 ## Authors
-
+- [@SunilKumarSharma129](https://github.com/SunilKumarSharma129)
 - [rahul garg](https://www.github.com/rahul-gargcoder)
 - [pushpendra sahu](https://www.github.com/pushpendrasahu11)
 
